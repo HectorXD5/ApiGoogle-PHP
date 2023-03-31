@@ -50,6 +50,6 @@ function gerarListaDeLugares() {
 
 // Inclui o arquivo HTML que contém o código para exibir a lista de lugares
 
-include('C:\Users\Silvia\Documents\GitHub');
+include('C:\Users\Silvia\Documents\GitHub\ApiGoogle-PHP\index.html');
 
 ?>
