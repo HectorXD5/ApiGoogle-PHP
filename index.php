@@ -1,8 +1,8 @@
 
 <?php
 
-//coordenada da região: -19.921299, -43.947451
-//chave api: AIzaSyDjPGH8AQxioOK2TGs1SqqhRah8PikHx40
+//Coordenada da região: -19.921299, -43.947451
+//Chave api: AIzaSyDjPGH8AQxioOK2TGs1SqqhRah8PikHx40
 
 // Função para gerar o código HTML da lista de lugares
 function gerarListaDeLugares() {
@@ -50,6 +50,6 @@ function gerarListaDeLugares() {
 
 // Inclui o arquivo HTML que contém o código para exibir a lista de lugares
 
-include('/mnt/chromeos/MyFiles/Nova pasta/index.html');
+include('C:\Users\Silvia\Documents\GitHub');
 
 ?>
