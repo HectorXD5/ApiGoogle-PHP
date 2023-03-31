@@ -1,17 +1,17 @@
-.Cabecalho {
+#Cabecalho {
     background-color: aqua;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.lista-container {
+#lista-container {
     max-height: 400px;
     overflow-y: auto;
 }
 
-.lista-lugares {
+#lista-lugares {
     list-style: none;
     margin: 0;
     padding: 0;
 }
-  
+
   
