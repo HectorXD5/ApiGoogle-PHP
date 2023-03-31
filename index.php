@@ -26,6 +26,9 @@ function gerarListaDeLugares() {
 
     // Verificador de que a requisição foi bem sucedida
     if ($resultado["status"] == "OK") {
+
+        // Criação da variável HTML
+        $html = "";
     
         // Itera sobre os resultados e adiciona cada lugar à lista HTML
         foreach ($resultado["results"] as $lugar) {
